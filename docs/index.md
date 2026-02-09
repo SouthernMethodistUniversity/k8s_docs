@@ -1,4 +1,4 @@
-```{image} ./images/kubernetes_logo.svg
+```{image} ./images/kubernetes_logo.png
 :alt: Kubernetes blue logo
 :align: center 
 ```
