@@ -1,4 +1,4 @@
-![Kubernetes Logo, blue](./images/kubernetes_logo.png)
+![Matrix of blue Kubernetes blocks](./images/kubernetes_banner.jpg)
 
 # Welcome
 
