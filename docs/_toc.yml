@@ -1,5 +1,6 @@
 format: jb-book
 root: index
+title: Welcome
 chapters:
-  - file: index.md
-    title: Welcome
+  - file: page1
+  - file: page2
