@@ -1,7 +1,7 @@
 title: "SMU Research Kubernetes Documentation"
 author: "Southern Methodist University"
-copywright: "2026"
 logo: "./images/smu_logo.png"
+copyright: "2026"
 execute:
   execute_notebooks: "off"
 html:
