@@ -2,3 +2,5 @@ root: index.md
 format: jb-book
 defaults:
   numbered: false
+parts:
+  - file: attribution.md
