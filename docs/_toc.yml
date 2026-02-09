@@ -1,5 +1,5 @@
 format: jb-book
 root: index
-parts:
-  - file: intro.md
+chapters:
+  - file: index.md
     title: Welcome
