@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 # Research Kubernetes Cluster
 
 ![Matrix of blue Kubernetes blocks](./images/kubernetes_banner.jpg)
