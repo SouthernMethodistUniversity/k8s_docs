@@ -1,6 +1,8 @@
+# Research Kubernetes Cluster
+
 ![Matrix of blue Kubernetes blocks](./images/kubernetes_banner.jpg)
 
-# Welcome
+## Welcome
 
 The Research Kubernetes Cluster at SMU is available for faculty research and classroom use cases via a consultation with [Mateo Langston Smith](mailto:mlangstonsmith@smu.edu). 
 
